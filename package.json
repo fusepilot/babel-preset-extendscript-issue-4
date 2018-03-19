@@ -1,0 +1,13 @@
+{
+  "name": "babel-preset-extendscript-issue-4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "babel": "babel src/photoshop.js --presets extendscript"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-extendscript": "^0.1.1"
+  }
+}
